@@ -6,6 +6,7 @@ two versions:
 1. will open the image in your browser, and nothing else
 2. will both download the image to a folder named "homework" (in your downloads folder) AND open it in your broswer
 
+also it will only work with one tag at a time, more than one just breaks it.
 
 DISCALMER!!!!
 
