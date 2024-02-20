@@ -2,7 +2,7 @@
 
 # Function to prompt user for tags (alphanumeric characters or hyphens only)
 get_tags() {
-    read -p "Enter tag(s) for waifu.im: " tags
+    read -p "Enter tag for waifu.im: " tags
     if [[ "$tags" =~ ^[a-zA-Z0-9-]+$ ]]; then
         echo "$tags"
     else
