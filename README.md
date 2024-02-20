@@ -1,6 +1,8 @@
 # waifu-finder
 searches and pulls waifus from [waifu.im](https://www.waifu.im/)
 
+before you run the script, make sure you have curl and jq installed. 
+
 two versions:
 
 1. will open the image in your browser, and nothing else
