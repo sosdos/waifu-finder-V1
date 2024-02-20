@@ -8,7 +8,7 @@ two versions:
 1. will open the image in your browser
 2. will both download the image to a folder named "homework" (in your downloads folder) AND open it in your broswer
 
-TAGS: waifu, maid, marin-kitagawa, mori-calliope, raiden-shogun, oppai, selfies, uniform   
+VALID TAGS: waifu, maid, marin-kitagawa, mori-calliope, raiden-shogun, oppai, selfies, uniform   
 
 (check [waifu.im](https://www.waifu.im/) for the "other" tags)
 
