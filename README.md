@@ -1,4 +1,4 @@
-# waifu-finder
+# waifu-finder-v1
 searches and pulls waifus from [waifu.im](https://www.waifu.im/)
 
 before you run the script, make sure you have curl and jq installed. 
