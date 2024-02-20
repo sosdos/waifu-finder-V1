@@ -21,3 +21,5 @@ it will only work with one tag at a time, more than one just breaks it.
 # DISCLAIMER!!!
 
 i did not write ANY of this myself. i have no idea how to code. ChatGPT wrote the whole thing, so don't give me any credit or anything like that.
+
+btw if you don't like the waifu.im api, I'm going to make a new one using the waifu.pics api.
